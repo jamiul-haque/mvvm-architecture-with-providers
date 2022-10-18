@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mvvm_architecture_with_provider/utils/routes.dart';
+import 'package:mvvm_architecture_with_provider/utils/routes/routes.dart';
 import 'package:mvvm_architecture_with_provider/utils/routes/routes_name.dart';
 
 void main() {
